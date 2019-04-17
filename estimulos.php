@@ -101,7 +101,7 @@
                                           <table class="table table-success m-2">
                                               <thead>
                                                   <tr>
-                                                      <th>Titulo del artículo</th>
+                                                      <th>Título del artículo</th>
                                                       <th>ISSN</th>
                                                       <th>Fecha de publicación</th>
                                                       <th>Editorial</th>
@@ -267,8 +267,8 @@
                                                       <th>Clasificación</th>
                                                       <th>Evento</th>
                                                       <th>Tipo de Evento</th>
-                                                      <th>Fecha inicio</th>
-                                                      <th>Fecha fin</th>
+                                                      <th>Fecha de inicio</th>
+                                                      <th>Fecha de fin</th>
                                                   </tr>
                                               </thead>
                                               <tbody>
@@ -323,8 +323,8 @@
                                                   <tr>
                                                       <th>Tipo de reconocimiento</th>
                                                       <th>Nivel</th>
-                                                      <th>Fecha inicio</th>
-                                                      <th>Fecha fin</th>
+                                                      <th>Fecha de inicio</th>
+                                                      <th>Fecha de fin</th>
                                                       <th>Monto mensual</th>
 
                                               </thead>
@@ -391,7 +391,7 @@
                                                   <tr>
                                                       <th>Fecha de inicio</th>
                                                       <th>Fecha de fin</th>
-                                                      <th>Titulo</th>
+                                                      <th>Título</th>
                                                       <th>Participación</th>
                                                       <th>Monto</th>
                                                   </tr>
@@ -465,9 +465,9 @@
                                                                                 <table class="table table-success m-2">
                                                                                     <thead>
                                                                                             <tr>
-                                                                                                    <th>Fecha inicio</th>
-                                                                                                    <th>Fecha fin</th>
-                                                                                                    <th>Tipo Dirección Individualizada</th>
+                                                                                                    <th>Fecha de inicio</th>
+                                                                                                    <th>Fecha de fin</th>
+                                                                                                    <th>Tipo de Dirección Individualizada</th>
                                                                                                     <th>Tipo de Proyecto Dirigido</th>
                                                                                                 </tr>
                                                                                             </thead>
@@ -518,7 +518,7 @@
                                                                         <table class="table table-success m-2">
                                                                                 <thead>
                                                                                         <tr>
-                                                                                                <th>Fecha servicio</th>
+                                                                                                <th>Fecha de servicio</th>
                                                                                                 <th>Tipo de servicio</th>
                                                                                                 <th>Servicio prestado</th>
                                                                                         </tr>
@@ -582,7 +582,7 @@
                                               <thead>
                                                   <tr>
                                                       <th>Fecha Ult. Rep.</th>
-                                                      <th>Tipo Gestión</th>
+                                                      <th>Tipo de Gestión</th>
                                                       <th>Clasificación</th>
                                                       <th>Función Encomendada</th>
                                                   </tr>
@@ -623,7 +623,7 @@
                                           <table class="table table-success m-2">
                                               <thead>
                                                   <tr>
-                                                      <th>Fecha inicio</th>
+                                                      <th>Fecha de inicio</th>
                                                       <th>Fecha termnino</th>
                                                       <th>Dependencia</th>
                                                       <th>Nivel</th>
