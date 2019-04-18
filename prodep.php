@@ -96,7 +96,7 @@
                                                       <th>Estudios en:</th>
                                                       <th>Área -> Disciplina</th>   <!-- Creo que el llenado debe ser Enfoque → Ciencias -->
                                                       <th>Institución otorgante</th>
-                                                      <!--Instirución otorgante no considerada en el catálogo-->
+                                                      <!--Institución otorgante no considerada en el catálogo-->
                                                       <th>Paises donde ha estudiado</th>
                                                       <!-- En cada pais debe agregar la fecha de inicio de estudios y fin de estudios y fecha de obtencion de su título -->
                                                   </tr>
@@ -295,7 +295,7 @@
                                                       <th>Materia</th>
                                                       <th>Institución</th>
                                                       <th>Dependencia</th>
-                                                      <th>Programa educatico</th>
+                                                      <th>Programa educativo</th>
                                                       <th>Nivel</th>
                                                     <!-- Fecha de inicio de estudios
                                                         Numero de alumnos
@@ -319,20 +319,20 @@
                                       </div>
                                   </div>
                                                                     <div class="btn btn-secondary border-light" id="subheader_docencia">
-                                      <a class="btn btn-block" data-toggle="collapse" data-target="#subcollapse2_docencia" aria-expanded="true" aria-controls="subcollapse2_docencia">Tutoria</a>
+                                      <a class="btn btn-block" data-toggle="collapse" data-target="#subcollapse2_docencia" aria-expanded="true" aria-controls="subcollapse2_docencia">Tutoría</a>
                                   </div>
                                                                     <div id="subcollapse2_docencia" class="collapse" aria-labelledby="subheader2_docencia" data-parent="#subaccordion_docencia">
                                       <div class="card-body">
                                           <div class="form-group">
                                               <div class="row">
                                                   <div class="col-9">
-                                                      <h4>Tutoria</h4>
+                                                      <h4>Tutoría</h4>
                                                   </div>
                                            <div class="col-3">
-                                              <h5><right>Tipo de tutoria:</right></h5>
+                                              <h5><right>Tipo de tutoría:</right></h5>
                                               <select name="seleccion_tipo_tutoria" id="tipo_tutoria" class="custom-select">
                                               <option value="seleccion">Seleccione...</option>
-                                              <option value="articulo">Tutoria individual</option>
+                                              <option value="articulo">Tutoría individual</option>
                                               <option value="libro">Grupal</option>
                                               </select>
                                                                                                     </div>
@@ -347,7 +347,7 @@
                                                           -Tutelaje (puede ir vacio)
                                                           -Estado
                                                       En grupal va:
-                                                          -Numero de alumnos
+                                                          -Número de alumnos
                                                           -Nivel
                                                           -Programa educativo
                                                           -Fecha de inicio
@@ -377,8 +377,8 @@
                                           <table class="table table-success m-2">
                                               <thead>
                                                   <tr>
-                                                      <th>Tipo de tutoria</th>
-                                                      <th>Numero de Alumnos</th>
+                                                      <th>Tipo de tutoría</th>
+                                                      <th>Número de Alumnos</th>
                                                       <th>Nivel</th>
                                                       <th>Programa educativo</th>
                                                       <th>Fecha de inicio</th>
@@ -435,8 +435,8 @@
                                                   <tr>
                                                       <th>Título de tesis</th> 
                                                       <th>Grado Académico</th>
-                                                      <th>Fecha inicio</th>
-                                                      <th>Fecha fin</th>
+                                                      <th>Fecha de inicio</th>
+                                                      <th>Fecha de fin</th>
                                                       <th>No. Alumnos</th>
                                                       <!--Estado de la dirección individualizada:
                                                           Para considerar en curriculum de cuerpo academico? Y/N
@@ -508,8 +508,8 @@
                                                       <!--
                                                       Resultados obtenidos (Puede ir vacio)
                                                       Estado               (Puede ir vacio)
-                                                      Fecha inicio
-                                                      Fecha Fin             (TODAS LAS FECHAS EN FORMATO 31/12/9999)
+                                                      Fecha de inicio
+                                                      Fecha de Fin             (TODAS LAS FECHAS EN FORMATO 31/12/9999)
                                                       Fecha del ultimo informe presentado
                                                       Horas dedicadas a la semana a esta gestión
                                                       -->
@@ -829,8 +829,8 @@
                                                       <th>País</th>
                                                      
                                                       <!--
-                                                      Tipo de Particupación
-                                                      Paginas
+                                                      Tipo de Participación
+                                                      Páginas
                                                       No.Ediciones
                                                       Total de ejemplares
                                                       ISBN
@@ -847,7 +847,7 @@
                                               <tbody>
                                                   <tr>
                                                       <td>Rodolfo Navarro, José Maria Flores.</td>
-                                                      <td>Como hacer un sistema de llenado de combocatorias</td>
+                                                      <td>Como hacer un sistema de llenado de convocatorias</td>
                                                       <td>Publicado</td>
                                                       <td>México</td>
                                                       <td>México</td>
@@ -897,14 +897,14 @@
                                                       <th>Autores</th> <!--Separados por ","-->
                                                       <th>Título</th>                                                      
                                                       <th>Congreso</th>
-                                                      <th>Pais</th>
+                                                      <th>País</th>
                                                       <th>PDF</th> <!--AQUI LITERALMENTE TIENE QUE SUBIR EL PDF-->
                                                      
                                                      
                                                       <!--
                                                       Ciudad
                                                       Año
-                                                      De la pagina :  a la pagina: 
+                                                      De la página :  a la página: 
                                                       Estado actual:
                                                       Propósito
                                                       Para considerar en curriculum de cuerpo académico (Y/N)
@@ -917,10 +917,10 @@
                                               <tbody>
                                                   <tr>
                                                       <td>Rodolfo Navarro, José Maria Flores.</td>
-                                                      <td>Como hacer un sistema de llenado de combocatorias</td>
+                                                      <td>Como hacer un sistema de llenado de convocatorias</td>
                                                       <td>Congreso de la Unión</td>
                                                       <td>México</td>
-                                                      <td>Combocatorias.pdf</td>
+                                                      <td>Convocatorias.pdf</td>
                                                     </tr>
                                               </tbody>
                                           </table>
