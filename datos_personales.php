@@ -92,7 +92,7 @@
 				  </div>
 
 				  <div class="form-group">
-				    <label for="exampleFormControlInput1">Correo electronico personal</label>
+				    <label for="exampleFormControlInput1">Correo electrónico personal</label>
 				    <input type="email" class="form-control" id="correo_personal" placeholder="alguien@gmail.com" required="true">
 				  </div>
 				  <div class="form-group">
@@ -406,7 +406,7 @@
 
 				  <div class="form-group">
 				    <label for="exampleFormControlInput1">Título Universitario</label>
-				    <input type="text" class="form-control" id="titulo" placeholder="Ingeniero en Electrónica" required="true">
+				    <input type="text" class="form-control" id="título" placeholder="Ingeniero en Electrónica" required="true">
 				  </div>
 				  <div class="form-group">
 				    <label for="exampleFormControlInput1">Clave Única de Registro de Población (CURP)</label>
