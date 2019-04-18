@@ -449,7 +449,7 @@
                                                                 <th>ISBN</th>
                                                                 <th>Título del libro</th>
                                                                 <th>Año de edición</th>
-                                                                <th>Título del capitulo</th>
+                                                                <th>Título del capítulo</th>
                                                             </tr>
                                                         </thead>
                                                         <tbody>
@@ -495,8 +495,8 @@
                                                         <tbody>
                                                             <tr>
                                                                 <td>Memoria de ejemplo</td>
-                                                                <td>Titulo de ejmplo</td>
-                                                                <td>titulo de ejemplo</td>
+                                                                <td>Título de ejemplo</td>
+                                                                <td>Título de ejemplo</td>
                                                                 <td>2005</td>
                                                             </tr>
                                                         </tbody>
